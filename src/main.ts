@@ -1,6 +1,8 @@
 import { pokemonIds } from "./bases/02-objects.ts";
 // import { charmander } from "./bases/03-classes.ts";
-import { charmander } from "./bases/04-injection.ts";
+// import { charmander } from "./bases/04-injection.ts";
+// import { charmander } from "./bases/05-decorators";
+import { charmander } from "./bases/06-decorators2";
 import { setupCounter } from "./counter.ts";
 import "./style.css";
 import typescriptLogo from "./typescript.svg";
